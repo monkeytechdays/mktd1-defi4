@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "age": 12,
+      "gender": "MALE",
+      "id": "577a74a0cff47e00079717bd",
+      "name": "King Kong",
+      "raceId": "3"
+    },
+    {
+      "age": 6,
+      "gender": "FEMALE",
+      "id": "577a74a0cff47e00079717be",
+      "name": "King Louie",
+      "raceId": "4"
+    },
+    {
+      "age": 0,
+      "gender": "MALE",
+      "id": "577a74a0cff47e00079717bf",
+      "name": "Donkey Kong",
+      "raceId": "0"
+    },
+    {
+      "age": 12,
+      "gender": "MALE",
+      "id": "577a74a0cff47e00079717c0",
+      "name": "Oscar",
+      "raceId": "6"
+    },
+    {
+      "age": 7,
+      "gender": "MALE",
+      "id": "577a74a0cff47e00079717c1",
+      "name": "Caesar",
+      "raceId": "6"
+    },
+    {
+      "age": 3,
+      "gender": "MALE",
+      "id": "577a74a0cff47e00079717c2",
+      "name": "Betsy",
+      "raceId": "6"
+    },
+    {
+      "age": 8,
+      "gender": "FEMALE",
+      "id": "577a74a0cff47e00079717c3",
+      "name": "Joe",
+      "raceId": "1"
+    },
+    {
+      "age": 27,
+      "gender": "FEMALE",
+      "id": "577a74a0cff47e00079717c4",
+      "name": "Nikko",
+      "raceId": "4"
+    },
+    {
+      "age": 24,
+      "gender": "MALE",
+      "id": "577a74a0cff47e00079717c5",
+      "name": "George",
+      "raceId": "1"
+    },
+    {
+      "age": 29,
+      "gender": "FEMALE",
+      "id": "577a74a0cff47e00079717c6",
+      "name": "Cheeta",
+      "raceId": "3"
+    },
+    {
+      "age": 13,
+      "gender": "FEMALE",
+      "id": "577a74a0cff47e00079717c7",
+      "name": "Clyde",
+      "raceId": "5"
+    },
+    {
+      "age": 20,
+      "gender": "MALE",
+      "id": "577a74a0cff47e00079717c8",
+      "name": "Cornelius",
+      "raceId": "0"
+    },
+    {
+      "age": 30,
+      "gender": "FEMALE",
+      "id": "577a74a0cff47e00079717c9",
+      "name": "Rafiki",
+      "raceId": "4"
+    },
+    {
+      "age": 23,
+      "gender": "FEMALE",
+      "id": "577a74a0cff47e00079717ca",
+      "name": "Soni",
+      "raceId": "6"
+    },
+    {
+      "age": 24,
+      "gender": "MALE",
+      "id": "577a74a0cff47e00079717cb",
+      "name": "Le Bibliotécaire",
+      "raceId": "5"
+    },
+    {
+      "age": 25,
+      "gender": "MALE",
+      "id": "577a74a0cff47e00079717cc",
+      "name": "Abu",
+      "raceId": "6"
+    }
+  ],
+  "first": true,
+  "last": true,
+  "number": 0,
+  "numberOfElements": 16,
+  "size": 100,
+  "sort": null,
+  "totalElements": 16,
+  "totalPages": 1
+}
